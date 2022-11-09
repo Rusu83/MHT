@@ -1,4 +1,4 @@
-var n=4;
+var n=3;
 var t=16;
 var x;
 
